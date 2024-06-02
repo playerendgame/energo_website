@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Lexend+Deca:wght@100..900&family=Lexend:wght@100..900&display=swap');
+
+*{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    
+}
+
+.navbar-items a{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+
+}
+
+.mainHeaderContainer h4{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+  
+}
+
+
+.mainHeaderContainer p{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: normal;
+  
+}
+
+.getQuoteMessage{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: normal;
+  
+
+}
+
+.footerContainer{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.aboutUsContent{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.aboutUsContent h3{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.missionVision{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.missionVision h3{
+
+    font-weight: bold;
+
+}
+
+.missionContainer h4{ 
+
+    font-weight: bold;
+
+}
+
+.visionContainer h4{
+
+    font-weight: bold;
+
+
+}
+
+.whyChooseUs{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.whyChooseUsMainContainer h4{
+
+    font-weight: bold;
+
+
+}
+
+.whyChooseUsMainContainer h3{
+    
+    font-weight: bold;
+
+}
+
+.contactSection{
+
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.contactMainContainer h4{
+
+    font-size: 4rem;
+    font-weight: normal;
+
+}

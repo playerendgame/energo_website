@@ -1,0 +1,30 @@
+.aboutUs{
+
+    background-image: url('../image/aboutusBG.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.missionVision{
+
+    background-image: url('../image/missionVisionBG.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.contactSection{
+
+    background-image: url('../image/contactusBG.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}

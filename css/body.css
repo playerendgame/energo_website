@@ -1,0 +1,191 @@
+body{
+
+    height: auto;
+    width: auto;
+    overflow-x: hidden;
+    margin: 0 auto;
+
+}
+
+
+.coverContainer{
+
+    position: relative;
+    padding: 0;
+
+}
+
+.video-container{
+
+    height: 50rem;
+
+}
+
+.video-container video{
+
+    object-fit: cover;
+
+}
+
+.enerGotxt{
+
+    color: rgb(248, 194, 20);
+
+}
+
+.messageHeaderButton{
+
+    background-color: rgb(248, 194, 20);
+    padding: 19px;
+
+}
+
+/*Section 2 About Us*/
+.aboutUs{
+
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+
+}
+
+.aboutUsContent{
+
+    display: block;
+    align-items: center;
+    margin: auto;
+
+}
+
+.dividerAboutUs{
+
+    width: 18rem; 
+    border: none;
+    height: 10px; 
+    background-color: #ffc107;
+
+}
+
+.aboutUsImage img{
+
+    border-radius: 20px;
+    box-shadow: -5px 10px 10px rgb(199, 199, 199);
+
+}
+
+/*Mission and Vision Section*/
+.missionVision{
+
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+
+}
+
+/*Divider for mission and vision*/
+.diverMissionVision{
+
+    width: 30rem; 
+    border: none;
+    height: 10px; 
+    background-color: #ffc107; 
+    margin: auto;
+}
+
+.missionContainer{
+
+    background-color: rgb(248, 194, 20);
+    padding: 40px;
+    border-top-right-radius: 9rem;
+    border-bottom-right-radius: 9rem;
+    box-shadow: -5px 10px 10px rgb(9, 9, 9);
+
+    
+}
+
+
+.missionImage{
+    
+    padding: 10px;
+
+}
+
+.missionImage img{
+
+    border-radius: 60px;
+    box-shadow: -5px 10px 10px rgb(9, 9, 9);
+
+
+}
+
+.visionContainer{
+
+    background-color: rgb(248, 194, 20);
+    padding: 40px;
+    border-top-left-radius: 9rem;
+    border-bottom-left-radius: 9rem;
+    box-shadow: -5px 10px 10px rgb(9, 9, 9);
+}
+
+
+
+
+/*Why Choose Us Section*/
+.whyChooseUs{
+
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+}
+
+.dividerWhyChooseUs{
+
+    width: 30rem; 
+    border: none;
+    height: 10px; 
+    background-color: #ffc107;
+
+}
+
+/*Why Choose Us - Pioneering Container*/
+.whyChooseUsContainer{
+
+    border-style: dotted;
+    border-color: #5f4700;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: -5px 10px 10px rgb(197, 197, 197);
+
+}
+
+.whyChooseUsIcons{
+
+    padding: 5px;
+    border-style:  double;
+    border-color: #5f4700;
+    background: rgb(255,185,6);
+    background: radial-gradient(circle, rgba(255,185,6,1) 0%, rgba(255,255,255,1) 0%, rgba(255,231,171,1) 100%);
+    border-radius: 10px;
+}
+
+
+/*Contact Us Container*/
+.contactMainContainer{
+
+    padding: 4rem;
+
+}
+
+.messageUsButtons a{
+
+    border-color:  rgb(248, 194, 20);
+    padding: 12px;
+
+}
+
+
+.messageButtons:hover{
+
+   fill:  rgb(248, 194, 20);
+   transition: 0.3s ease;
+   transform: scale(1.2);
+   
+}

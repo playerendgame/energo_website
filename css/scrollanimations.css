@@ -1,0 +1,19 @@
+.scroll-animations{
+
+    transform: translateX(400%);
+    transition: transform 1.7s ease;
+
+}
+
+.scroll-animations:nth-of-type(even){
+
+    transform: translateX(-400%);
+
+}
+
+.scroll-animations.show{
+
+    transform: translateX(0);
+
+}
+

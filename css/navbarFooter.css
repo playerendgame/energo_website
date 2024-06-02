@@ -1,0 +1,108 @@
+/*Navbar*/
+.navbarMainContainer{
+
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: transparent;
+    z-index: 1000;
+    backdrop-filter: blur(20px);
+
+}
+
+
+.navbar-items{
+
+    position: relative;
+    flex-grow: 1;
+
+}
+
+.navbar-nav a{
+
+    color: white;
+
+}
+
+.navbar-nav a:hover{
+
+    color: rgb(248, 194, 20)
+
+}
+
+
+
+#aboutUsLink.active{
+
+    color: rgb(248, 194, 20)
+
+
+}   
+
+#whyChooseUsLink.active{
+
+    color: rgb(248, 194, 20)
+
+}
+
+#contactLink.active{
+
+    color: rgb(248, 194, 20)
+
+}
+
+/*Footer*/
+.footerContainer{
+
+    background-color: black;
+
+}
+
+.footerRow{
+
+    padding: 50px;
+
+}
+
+.footerRow img{
+
+    width: 12em;
+
+}
+
+/*Responsive Google Map*/
+.mapLocation{
+
+    position: relative;
+    width: 100%;
+    padding-top: 35%; 
+
+}
+
+.mapLocation iframe{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+.copyrightContainer{
+
+    background-color: rgb(248, 194, 20);
+
+}
+
+.getQuoteButtonLG button{
+
+    background-color: rgb(248, 194, 20);        
+    
+}
+
+.getQuoteButtonSM button{
+
+    background-color: rgb(248, 194, 20);        
+
+}

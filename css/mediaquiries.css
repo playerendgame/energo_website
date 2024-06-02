@@ -1,0 +1,154 @@
+@media (max-width: 768px) {
+    .mainHeaderContainer h4, p{
+
+        text-align: center;
+
+    }
+
+    .buttonHeader{
+
+        text-align: center;
+
+    }
+
+    .aboutUsContent{
+
+        text-align: center;
+
+
+    }
+
+    .dividerAboutUs{
+
+        margin: auto;
+
+    }
+
+    .missionContainer{
+
+        border-radius: 20px;
+
+    }
+
+    .missionImage{
+
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+
+    }
+
+    .visionContainer{
+
+        border-radius: 20px;
+
+
+    }
+
+    .whyChooseUsMainContainer{
+
+        text-align: center;
+
+    }
+
+    .contactMainContainer h4{
+
+        font-size: 3rem;
+        font-weight: normal;
+
+
+    }
+
+    .imgDesc{
+
+        text-align: center;
+
+    }
+
+    .socMediaIcons{
+
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-bottom: 30px;
+
+    }
+
+    .footerQuickLinks{
+
+        padding-bottom: 30px;
+
+    }
+
+    .locationContainer{
+    
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .emailContainer{
+
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .mobileContainer{
+
+        display: flex;
+        justify-content: center;
+
+    }
+
+}
+
+
+@media (max-width: 991px){
+
+    .whyChooseUs1{
+        
+        padding-bottom: 20px;
+
+    }
+
+    .whyChooseUs2{
+
+        padding-bottom: 20px;
+
+    }
+
+    .whyChooseUs3{
+
+        padding-bottom: 20px;
+
+    }
+
+    .whyChooseUs4{
+
+        padding-bottom: 20px;
+
+    }
+
+        
+
+
+}
+
+
+@media (min-width: 991px){
+
+    .whyChooseUs4{
+
+        padding-top: 20px;
+
+    }
+
+    .whyChooseUs5{
+
+        padding-top: 20px;
+
+    }
+
+
+
+}
