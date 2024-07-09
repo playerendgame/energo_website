@@ -5,6 +5,19 @@
 
     }
 
+    @media(max-width: 1300px){
+
+    .cover-bg img{
+
+        width: 100%;
+        height: 50rem;
+        object-fit: cover;
+        object-position: center; 
+    
+    }
+
+}
+
     .buttonHeader{
 
         text-align: center;
